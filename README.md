@@ -1,2 +1,2 @@
-Just my first try to built a chat bot for a specific area.
+Built a RAG chatbot using LLama
 
